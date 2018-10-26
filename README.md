@@ -1,4 +1,4 @@
-# Arduino BME280 library
+# Arduino BME280 (GY-21P) library
 
 **Author: unknown**  
 **Arduino C Application**  
@@ -6,7 +6,7 @@
 
 ## DESCRIPTION
 
-Arduino BME280 (temperature, pressure, altitude, humidity) sensor library.
+Arduino BME280 (GY-21P) (temperature, pressure, altitude, humidity) sensor library.
 
 ## USAGE
 
